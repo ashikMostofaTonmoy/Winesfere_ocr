@@ -4,7 +4,7 @@ import requests
 from multiprocessing.pool import ThreadPool
 from clint.textui import progress
 
-dest = 'data/downloaded/0'
+dest = '../data/downloaded/0'
 url1 = 'https://img.mediavitis.com/cola_images/Chardonnay_VSR2008.jpg'
 url12 = 'https://img.mediavitis.com/cola_images/backlabel.jpg'
 
