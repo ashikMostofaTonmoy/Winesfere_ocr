@@ -1,6 +1,5 @@
 
 # In[]:
-from dotenv import load_dotenv
 from multiprocessing.pool import ThreadPool
 from time import time
 from clint.textui import progress
@@ -11,6 +10,7 @@ import pandas as pd
 import sys
 import platform
 import uuid
+from dotenv import load_dotenv
 print(platform.python_version())
 print(sys.path)
 

@@ -160,6 +160,15 @@ cython_debug/
 #.idea/
 
 
+# vscode settings
+.vscode/
+
+
 # custome project folders
 Dump20220603/
 data/
+annotations/
+checkpoints/
+train2014/
+# scripts/train2014/
+# scripts/annotations/
